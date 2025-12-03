@@ -1,0 +1,7 @@
+AES_128_GCM
+Example of private, private key generation and do not share.
+
+## Compile and run
+Compile:
+```sh
+AES_128_GCM
